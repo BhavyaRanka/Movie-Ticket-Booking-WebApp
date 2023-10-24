@@ -8,15 +8,18 @@ Admin columns:
 1. Name
 2. Username
 3. Password
+   
 Users columns:
 1.id
 2. Name
 3. Username
 4. Password
+
 Theatre columns:
 1.id
 2. Name
 3. Place
+
 Show Columns:
 1.id
 2. Name
