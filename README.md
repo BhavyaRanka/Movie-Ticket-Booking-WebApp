@@ -5,28 +5,28 @@ Python, Flask, Jinja2, Sqlite, HTML, Javascript, Vue.js, redis, celery.
 
 DB Schema Design
 Admin columns:
-1. Name
-2. Username
-3. Password
+Name
+Username
+Password
    
 Users columns:
-1.id
-2. Name
-3. Username
-4. Password
+id
+Name
+Username
+Password
 
 Theatre columns:
-1.id
-2. Name
-3. Place
+id
+Name
+Place
 
 Show Columns:
-1.id
-2. Name
-3. Place
-4.Theatre
-5. Rating
-6. Price
+id
+Name
+Place
+Theatre
+Rating
+Price
    
 Architecture and Features
 The whole program is kept in a zip file, in it there is a folder called main.py which contains the main program 
